@@ -30,7 +30,6 @@ File names look like `SSC March 2026 - Maths 1 Algebra - Marathi Medium.pdf`.
 - Every board paper was checked against the paper code (for example N 919) and the exam date printed on it.
 - There are no 2021 papers, because the 2021 SSC exam was cancelled due to COVID. The March 2020 Geography paper was cancelled too.
 - Language papers are the same for every medium.
-- Model papers written by AglaSem are not copied here. The website links to them on AglaSem's site.
 
 ## Sources and credit
 
